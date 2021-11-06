@@ -1,0 +1,45 @@
+body {
+    background-color: grey;
+    font-family: sans-serif;
+}
+.kiri {
+    margin-left: 350px;
+    height: 850px;
+    width: 750px;
+    border: none;
+    background-color: darkgray;
+    padding-bottom: 20px;
+}
+img {
+    height: 200px;
+    width: 300px;
+}
+.kanan {
+    height: 870px;
+    width: 450px;
+    border: none;
+    background-color: white;
+    text-align: left;
+}
+.nama {
+    color: coral;
+}   
+.nama2 {
+    color: aliceblue;
+}
+.line {
+    height: 2px;
+    background-color:  darkgray;
+}
+.kata {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.tex {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.tex2 {
+    padding-left: 100px;
+    padding-right: 10px;
+}
